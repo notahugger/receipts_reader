@@ -16,3 +16,6 @@ Read receipt images, extract information and output to csv file
 - Install libraries (pip install -r requirements.txt)
 - Place receipt images under /images folder
 - Run python file (python receipts_reader.py)
+
+# Warning
+- The specified LLM model requires high (GPU/CPU) memory.
